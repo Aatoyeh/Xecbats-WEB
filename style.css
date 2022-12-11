@@ -1,12 +1,11 @@
 body{
     color:#ffffff;
     background-color: #000000;
-    background-image: url('wallpapersden.com_k-hack-art_2560x1440.jpg');
+    background-image: url("PI.jpg");
     font-family: monospace;
     font-size: 18px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-size: auto;
 
 }
 
