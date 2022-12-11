@@ -4,7 +4,7 @@ body{
     background-image: url("PI.jpg");
     font-family: monospace;
     font-size: 18px;
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-size: fixed ;
 
 }
