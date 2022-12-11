@@ -1,0 +1,30 @@
+body{
+    color:#ffffff;
+    background-color: #000000;
+    font-family: monospace;
+    font-size: 18px;
+    background-image: url('https://images.wallpapersden.com/image/download/4k-hack-art_bGVsbGuUmZqaraWkpJRnamtlrWZpaWU.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+h1,h2,h3,.align_center{
+    text-align: center;
+}
+
+.link_colour{
+    color: #ffffff;
+}
+.in_series{
+    display: inline-block;
+    text-align: center;
+}
+.zoom_in:hover {
+    transition: transform .3s;
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
